@@ -19,6 +19,6 @@ The CSCI 441 Demo 1 presentation, 20 slides, published with GitHub Pages.
 | `deck.json` | Slide order, sections and fonts. |
 | `build.py` | `python3 build.py --pdf` rebuilds `index.html` and the PDF (Chrome needed for the PDF). |
 
-The source of these slides is [`slides/`](https://github.com/Monunhh/Super-ask/tree/main/slides)
+The source of these slides is [`docs/demo-1/slides/backup/`](https://github.com/Monunhh/Super-ask/tree/main/docs/demo-1/slides/backup)
 in Monunhh/Super-ask. To update this site, copy the changed files here,
 rebuild, and push — GitHub Pages republishes within a minute or two.

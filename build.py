@@ -18,7 +18,7 @@ import tempfile
 HERE = os.path.dirname(os.path.abspath(__file__))
 PDF_NAME = "SuperAsk-Demo1.pdf"
 # Where the PDF lives online; used when the page is not opened as a local file.
-PDF_URL = "https://github.com/Monunhh/Super-ask/raw/main/slides/" + PDF_NAME
+PDF_URL = PDF_NAME  # hosted next to index.html on GitHub Pages
 
 # Line icons (24×24, stroke = currentColor) for the deck format's <x-icon name>.
 ICONS = {
